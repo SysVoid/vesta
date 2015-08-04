@@ -138,4 +138,3 @@ unset($_SESSION['ok_msg']);
 
 // Footer
 include($_SERVER['DOCUMENT_ROOT'].'/templates/footer.html');
-?>
