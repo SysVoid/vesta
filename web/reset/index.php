@@ -95,5 +95,3 @@ if (empty($_GET['action'])) {
         require_once '../templates/reset_3.html';
     }
 }
-
-?>
